@@ -1,6 +1,6 @@
 #  AI-Protein-Predictor: Stability Classification Pipeline
 
-** FOCUS:** Applying Machine Learning to solve early-stage protein engineering challenges, specifically filtering unstable candidates.
+FOCUS: Applying Machine Learning to solve early-stage protein engineering challenges, specifically filtering unstable candidates.
 
 ##  Pipeline Summary
 * **Methodology:** Trains a **Random Forest Classifier (Scikit-learn)** using features derived from protein sequences.
